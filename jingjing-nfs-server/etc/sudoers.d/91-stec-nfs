@@ -1,0 +1,4 @@
+# Created by cloud-init v. 23.1.1-0ubuntu0~22.04.1 on Sun, 23 Apr 2023 11:28:28 +0000
+
+# User rules for ubuntu
+jingjing ALL=(ALL) ALL
